@@ -1,2 +1,2 @@
 # molecular-docking-workflow
-R-based workflow for analyzing molecular docking results, including ligand ranking, binding affinity evaluation, and visualization.
+Reproducible R workflow for analysis of molecular docking results, including ligand ranking, binding affinity assessment, and visualization.
