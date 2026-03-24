@@ -1,0 +1,5 @@
+Molecular Docking Summary
+
+Best ligand: Ligand_G 
+Binding affinity: -8.5 kcal/mol
+Hydrogen bonds: 5 
